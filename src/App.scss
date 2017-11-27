@@ -1,0 +1,14 @@
+.header-container{
+ height: 10vh;
+ width: 100vw;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+  .nike-swoosh-logo{
+    height: 8em;
+    width: 20em;
+    background-image:url('assets/nike-swoosh.png');
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
