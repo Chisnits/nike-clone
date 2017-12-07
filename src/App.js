@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
         <div className="header-container">
           <div className="nike-swoosh-logo">
-          
+          Chase
         </div>
           cool
         </div>
