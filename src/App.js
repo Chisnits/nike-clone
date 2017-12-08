@@ -9,7 +9,7 @@ class App extends Component {
           <div className="nike-swoosh-logo">
           Chase
         </div>
-          cool
+          
         </div>
       </div>
     );
